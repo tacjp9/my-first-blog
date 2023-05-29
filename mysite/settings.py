@@ -39,8 +39,6 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'blog.apps.BlogConfig',
-    'trial', #お試しアプリ
-]
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
